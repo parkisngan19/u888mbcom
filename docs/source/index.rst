@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+U888 - Link u888mb.com chính thức
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `U888 <https://u888mb.com/>`_ là một trong những nền tảng cá cược trực tuyến uy tín, cung cấp đa dạng dịch vụ từ cá cược thể thao, sòng bài trực tuyến đến các trò chơi đổi thưởng hấp dẫn. Với giao diện hiện đại, bảo mật cao và dịch vụ hỗ trợ chuyên nghiệp, U888 đảm bảo trải nghiệm tối ưu cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://u888mb.com/
 
-   This project is under active development.
+Địa chỉ: 154 P. Nguyễn Thái Học, Kim Mã, Ba Đình, Hà Nội, Việt Nam
 
-Contents
---------
+Email: u888mbcom@gmail.com
 
-.. toctree::
+Phone: 0896 673 756
 
-   usage
-   api
+#u888 #u888mb_com #nha_cai_u888
